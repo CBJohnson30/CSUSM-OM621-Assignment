@@ -3,7 +3,7 @@
 ## Project Overview
 While completing my Master's in Supply Chain Analytics, I took a class called ‘Advanced Visual Analytics' taught by Dr Majid Karimi. This repository provides an overview of the class assignments. This project detailed how we can act as data consultants, analyzing a customer's transportation invoice data to help them gain better insights and forecast transportation costs for the next 12 months, enabling them to prepare a more accurate budget. We detailed how to pitch the project, clean data, create exploratory analysis plots, and create a presentation-style Power BI dashboard. 
 
-### 3 minute story
+### 3 Minute Story
 Running a successful business is all about reacting to the unknown. While the future is never inevitable, what if that unknown becomes smaller?  With proper data collection, a good forecasting model will make the unknown smaller. This will allow you to better prepare for the unknown, and with real-time data, you can track your progress to see if you are heading into that unknown territory. With enough warning, the unknown can be planned for, so it becomes just another bump in the road, not an unexpected sinkhole. A proper forecasting model and a live dashboard will serve as that warning, so the unknown never really surprises anyone throughout the company. 
 
 ### Storyboard
