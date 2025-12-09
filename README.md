@@ -6,7 +6,7 @@ While completing my Master's in Supply Chain Analytics, I took a class called â€
 ### 3 minute story
 Running a successful business is all about reacting to the unknown. While the future is never inevitable, what if that unknown becomes smaller?  With proper data collection, a good forecasting model will make the unknown smaller. This will allow you to better prepare for the unknown, and with real-time data, you can track your progress to see if you are heading into that unknown territory. With enough warning, the unknown can be planned for, so it becomes just another bump in the road, not an unexpected sinkhole. A proper forecasting model and a live dashboard will serve as that warning, so the unknown never really surprises anyone throughout the company. 
 
-### storyboard
+### Storyboard
 
 ![story board](https://github.com/CBJohnson30/CSUSM-OM621-Assignment/blob/main/images/story_board.png)
  
