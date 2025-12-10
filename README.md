@@ -34,3 +34,9 @@ The Power BI workbook contains 4 different dashboards.
 - Forecast
     - Looking at a 12-month forecast for transportation cost.
 
+
+## Takeaways and Findings
+- Given the heavy seasonality in transportation costs, a forecasting model could provide an accurate forecast for the coming year. 
+- Less than Container load and container load have the most extensive invoice delays. The business should work with its logistics partners to identify how they can reduce invoice delays. 
+
+
