@@ -1,7 +1,8 @@
 # CSUSM-OM621-Assignment
 
 ## Video
-Here is a quick video going through the whole project. 
+Here is a quick video going through the whole project.
+ 
 https://github.com/CBJohnson30/CSUSM-OM621-Assignment/blob/main/video/project_overview_video.mp4
 
 
