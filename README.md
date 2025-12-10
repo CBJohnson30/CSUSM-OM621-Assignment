@@ -2,6 +2,8 @@
 
 ## Video
 Here is a quick video going through the whole project. 
+https://github.com/CBJohnson30/CSUSM-OM621-Assignment/blob/main/video/project_overview_video.mp4
+
 
 ## Project Overview
 While completing my Master's in Supply Chain Analytics, I took a class called ‘Advanced Visual Analytics' taught by Dr Majid Karimi. This repository provides an overview of the class assignments. This project detailed how we can act as data consultants, analyzing a customer's transportation invoice data to help them gain better insights and forecast transportation costs for the next 12 months, enabling them to prepare a more accurate budget. A large component of the project was looking at how invoice delay could possibly effect creating a budget for transportation cost. We detailed how to pitch the project, clean data, create exploratory analysis plots, and create a presentation-style Power BI dashboard. 
