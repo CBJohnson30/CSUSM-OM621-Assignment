@@ -3,7 +3,11 @@
 ## Video
 Here is a quick video going through the whole project.
  
-https://github.com/CBJohnson30/CSUSM-OM621-Assignment/blob/main/video/project_overview_video.mp4
+
+
+https://github.com/user-attachments/assets/ab65bb01-0e4e-4e80-8c0e-c32b1cff5b9b
+
+
 
 
 ## Project Overview
